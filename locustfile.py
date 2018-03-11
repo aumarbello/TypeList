@@ -15,4 +15,3 @@ class UserBehaviour(TaskSet):
 
 class WebsiteUser(HttpLocust):
     task_set = UserBehaviour
-
